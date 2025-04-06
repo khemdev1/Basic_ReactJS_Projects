@@ -45,5 +45,9 @@ npm run dev
 
 ![Todo App Preview](src/assets/Ouput.png)
 
+### Execution
+
+![Todo App Preview](src/assets/Execution_image.png)
+
 Done! 
 --
