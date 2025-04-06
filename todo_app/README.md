@@ -40,5 +40,10 @@ cd todo-app
 npm install
 npm run dev
 ```
+
+## Output
+
+![Todo App Preview](src/assets/Ouput.png)
+
 Done! 
 --
