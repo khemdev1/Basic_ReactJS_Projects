@@ -27,19 +27,6 @@ A sleek, responsive Todo application built using **React**, featuring:
 
 ---
 
-## 📁 Project Structure
-todo-app/
-├── src/
-│   ├── Todo.jsx        # Main component
-│   ├── Todo.css        # Component styling
-│   └── App.js          # Entry point
-├── public/
-│   └── index.html
-├── package.json
-└── README.md
-
----
-
 ## 🛠️ Getting Started
 
 ### Clone the Repository
